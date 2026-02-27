@@ -17,7 +17,7 @@ export default function GetInvolved() {
             Join Our Discord
           </h3>
           <p className="text-gray-300 mb-4 flex-grow">
-            Connect with members, ask questions, and stay up-to-date.
+            Connect with members, ask questions, and stay  up-to-date.
           </p>
           <a
             href=""
