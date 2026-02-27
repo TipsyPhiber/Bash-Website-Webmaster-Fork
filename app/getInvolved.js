@@ -20,7 +20,7 @@ export default function GetInvolved() {
             Connect with members, ask questions, and stay up-to-date.
           </p>
           <a
-            href="https://discord.com/invite/SCURtGAKfD"
+            href=""
             className="mt-auto bg-blue-500 text-white font-bold py-2 px-4 rounded-lg hover:bg-blue-600 transition-colors"
           >
             Join Now
