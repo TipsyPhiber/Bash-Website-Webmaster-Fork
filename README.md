@@ -30,7 +30,7 @@ This website aims to be the go-to resource for current and prospective members, 
 
 - **Dynamic Homepage:** Displays the next upcoming meeting powered by the Google Calendar API.
 - **CTF Feed:** Integrates with the CTFtime API to show upcoming Capture The Flag competitions.
-- **Club Information:** Dedicated pages for Officers, Resources, Schedule, and Sponsors.
+- **Club Information:** Dedicated pages for Resources, Schedule, and Sponsors.
 - **Responsive Design:** Built with Tailwind CSS for a seamless experience across devices.
 - **Community Integration:** Easy access to our Discord server.
 
